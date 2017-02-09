@@ -2,3 +2,4 @@ here is a file
 some other file
 some other file adding text
 ABC
+even more new text
