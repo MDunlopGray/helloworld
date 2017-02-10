@@ -13,8 +13,8 @@ Part of the intro to GIT course at the MITRE Institute
 
 ## and now for an unordered **list** with an unordered *sublist*
 
-*this would be list item number 1 if this were *ordered*, but alas...
-*another item, equally as disordered as above
- *does this make for a sub item?
-  *how about this? a sub for the sub?
+* this would be list item number 1 if this were *ordered*, but alas...
+* another item, equally as disordered as above
+ * does this make for a sub item?
+  * how about this? a sub for the sub?
 

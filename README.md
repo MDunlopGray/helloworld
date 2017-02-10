@@ -18,3 +18,7 @@ Part of the intro to GIT course at the MITRE Institute
  * does this make for a sub item?
   * how about this? a sub for the sub?
 
+# Now, adding an image from the local folder
+
+![Second welder image](Image_Folder/images.jpeg)
+
